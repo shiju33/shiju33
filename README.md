@@ -1,6 +1,6 @@
 # Shiju
 
-UI/UX Frontend Developer
+(cybersecurity + Design + Cad)
 
 
 ## Skills
