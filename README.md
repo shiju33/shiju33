@@ -1,6 +1,6 @@
 # Shiju
 
-(cybersecurity + Design + Cad)
+(ui/ux Design +cyber security)
 
 
 ## Skills
